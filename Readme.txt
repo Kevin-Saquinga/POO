@@ -1,10 +1,8 @@
 Hola esta es una prueba de git
 Lenguajes Uso 
-Java
-Python
-Php
-C++
-
-Saquinga Kevin
-
+Maria
+Perez
+Juan
+Carlos
+Stalin
 
